@@ -1,8 +1,9 @@
 # Mi Primer Repositorio
 
+# LocalUp
+
 Nombre: Sofia Rodas Ochoa
 
-LocalUp
 LocalUp es uan plataforma web diseñada para conectar usuarios con eventos, \
 restaurantes y actividades en su ciudad mediante reseñas y recomendaciones presonalizadas.
 
