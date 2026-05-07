@@ -30,3 +30,8 @@ Estado actual:
 
 Asegurar la calidad del sistema LocalUp mediante procesos de evaluación, \
 validación y pruebas sistemáticas durante todo su desarrollo.
+
+## Seguridad De Datos
+Proteger la seguridad y privacidad de los datos de los usuarios \ 
+mediante pruebas exhaustivas de seguridad y validación de \
+protocolos.
