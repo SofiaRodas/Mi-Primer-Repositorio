@@ -22,7 +22,11 @@ compatibilidad con tiempo real).
 Base de datos: MongoDB (NoSQL, ideal para datos
 dinámicos como publicaciones y
 reseñas).
-
 Estado actual:
 
 🔨 EN CONSTRUCCION 🚧
+
+## Objetivos Del Plan QA
+
+Asegurar la calidad del sistema LocalUp mediante procesos de evaluación, \
+validación y pruebas sistemáticas durante todo su desarrollo.
