@@ -1,37 +1,88 @@
-# Mi Primer Repositorio
+# LocalUp 🚀
 
-# LocalUp
+### Descubre, comparte y vive tu ciudad.
 
-Nombre: Sofia Rodas Ochoa
+LocalUp es una plataforma web enfocada en conectar personas con eventos, restaurantes y actividades locales mediante una experiencia social e interactiva. El proyecto busca centralizar recomendaciones, reseñas y publicaciones en un solo ecosistema digital moderno y accesible.
 
-LocalUp es uan plataforma web diseñada para conectar usuarios con eventos, \
-restaurantes y actividades en su ciudad mediante reseñas y recomendaciones presonalizadas.
+## 📌 Estado actual del proyecto
 
-Equipo \
-Miguel Angel Castro Montoya \
-Sofia Rodas Ochoa \
-Estefania Restrepo Ramirez
+Actualmente el proyecto se encuentra en fase de análisis, diseño y estructuración técnica. Hasta el momento se ha desarrollado:
 
-Frontend: JavaScript (React Native para versión
-móvil o React.js para web).
+* ✔️ Definición del alcance del sistema.
+* ✔️ Levantamiento de requerimientos funcionales y no funcionales.
+* ✔️ Identificación de actores y reglas de negocio.
+* ✔️ Elaboración de casos de uso del sistema.
+* ✔️ Diseño del modelo UML:
 
+  * Diagrama de clases.
+  * Diagramas de actividades.
+  * Matriz de trazabilidad.
+* ✔️ Validación y evaluación de consistencia del modelo UML.
+* ✔️ Diseño inicial de interfaces y navegación de la plataforma.
+* ✔️ Definición de arquitectura tecnológica y stack de desarrollo.
+* ✔️ Planeación de base de datos y relaciones principales.
+* ✔️ Estructuración del sistema CRUD para usuarios, eventos, reseñas y comentarios.
 
-Backend: Node.js (por su escalabilidad y
-compatibilidad con tiempo real).
+## ⚙️ Tecnologías definidas
 
-Base de datos: MongoDB (NoSQL, ideal para datos
-dinámicos como publicaciones y
-reseñas).
-Estado actual:
+### Frontend
 
-🔨 EN CONSTRUCCION 🚧
+* React.js / Next.js
+* React Native (versión móvil)
 
-## Objetivos Del Plan QA
+### Backend
 
-Asegurar la calidad del sistema LocalUp mediante procesos de evaluación, \
-validación y pruebas sistemáticas durante todo su desarrollo.
+* Node.js
+* Express.js
 
-## Seguridad De Datos
-Proteger la seguridad y privacidad de los datos de los usuarios \ 
-mediante pruebas exhaustivas de seguridad y validación de \
-protocolos.
+### Base de datos
+
+* MongoDB
+* Redis
+
+### Servicios e integraciones
+
+* Firebase Auth
+* Firebase Storage
+* Google Maps API
+* Stripe / MercadoPago / PayU
+
+## 🧩 Funcionalidades principales
+
+* Registro e inicio de sesión.
+* Publicación de reseñas y eventos.
+* Exploración de lugares y actividades.
+* Sistema de comentarios y calificaciones.
+* Recomendaciones basadas en intereses.
+* Gestión de favoritos.
+* Promoción de eventos mediante pagos.
+* Panel administrativo para moderación.
+
+## 📈 Avances de modelado y calidad
+
+Se realizó una evaluación de consistencia entre:
+
+* Requerimientos funcionales.
+* Casos de uso.
+* Diagramas UML.
+* Actividades del sistema.
+* Relaciones de clases.
+
+Durante esta etapa se optimizaron:
+
+* Relaciones entre entidades.
+* Validaciones de autenticación.
+* Gestión de favoritos.
+* Ciclo de vida de eventos y aprobaciones.
+
+## 👥 Equipo de desarrollo
+
+* Sofia Rodas Ochoa
+* Estefania Restrepo
+* Miguel Angel Castro
+
+## 🎯 Objetivo del proyecto
+
+Construir una plataforma moderna, escalable y centrada en la comunidad que permita descubrir experiencias locales de forma confiable, intuitiva y social.
+
+> LocalUp no es solo una app de recomendaciones. La idea es convertir la ciudad en una experiencia compartida.
