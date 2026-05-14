@@ -86,3 +86,11 @@ Durante esta etapa se optimizaron:
 Construir una plataforma moderna, escalable y centrada en la comunidad que permita descubrir experiencias locales de forma confiable, intuitiva y social.
 
 > LocalUp no es solo una app de recomendaciones. La idea es convertir la ciudad en una experiencia compartida.
+
+
+
+
+
+
+# RAMAS
+Cada rama es un espacio independiente para trabajar sin alterar el código de producción.
