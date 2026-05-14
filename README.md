@@ -86,3 +86,10 @@ Durante esta etapa se optimizaron:
 Construir una plataforma moderna, escalable y centrada en la comunidad que permita descubrir experiencias locales de forma confiable, intuitiva y social.
 
 > LocalUp no es solo una app de recomendaciones. La idea es convertir la ciudad en una experiencia compartida.
+
+# RAMAS 
+
+* Aislamiento: Cada rama es un espacio independiente para trabajar sin alterar el código de producción.
+* Flujo de Trabajo: Permiten que varios desarrolladores trabajen en características (feature branches) simultáneamente.
+* Integración: Al finalizar, las ramas se fusionan de nuevo a la rama principal (o de desarrollo) mediante pull requests.
+* Estructura: Técnicamente, son punteros ligeros a un commit específico que avanzan con cada nueva confirmación.
